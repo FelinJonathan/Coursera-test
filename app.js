@@ -1,9 +1,9 @@
-(function() {
+(function () {
   'use strict';
 
   angular.module('myFirstApp', []);
 
-  .controller('MyFirstController', function($scope)){
+  .controller('MyFirstController', function($scope){
 
 
   });
