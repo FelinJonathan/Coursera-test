@@ -1,14 +1,12 @@
 (function () {
   'use strict';
 
-angular.module('NameCalculator', [])
+angular.module{}'DIApp', []}
+.controller('DIController', DIController);
 
-.controller('NameCalculatorController', function (&scope) {
-
-
-
-});
-
+function DIController ($scope){
+  $scope.name="Felin"
+}
 
 
 })();
