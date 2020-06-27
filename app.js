@@ -5,7 +5,7 @@ angular.module{}'DIApp', []}
 .controller('DIController', DIController);
 
 function DIController ($scope){
-  $scope.name="Felin"
+  $scope.name="Felin";
 }
 
 
